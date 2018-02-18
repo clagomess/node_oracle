@@ -1,0 +1,4 @@
+/node_modules
+/lib/*.so
+/lib/*.1
+.idea

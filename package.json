@@ -1,0 +1,14 @@
+{
+  "name": "node_oracle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cláudio Gomes",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "postinstall": "cd lib && tar -xzf lib.tar.gz"
+  },
+  "dependencies": {
+    "oracledb": "^2.0.15"
+  }
+}
